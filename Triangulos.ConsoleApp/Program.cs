@@ -29,7 +29,6 @@ namespace Triangulos.ConsoleApp
             return type;
         }
 
-
     }
     internal class Program
     {
